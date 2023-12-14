@@ -1,0 +1,39 @@
+body { 
+    font-style: normal; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: #7f7fa1;
+}
+
+.italic { 
+    font-style: italic; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: #ffb7a1
+   
+    
+}
+
+.box1 {
+    border-width: 3px;
+    border-style: dotted;
+    border-color: #7f7fa1;
+    background-color: #ffb7a1;
+
+}
+.box2 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ff7851;
+    
+
+}
+
+.box3 {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #ffb7a1;
+    
+
+}
+.position { 
+    position: relative;
+    left: 600px;
+    right: 5px;
+    height: 100px;
+}
+
